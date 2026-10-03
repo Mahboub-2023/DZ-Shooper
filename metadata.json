@@ -1,0 +1,6 @@
+{
+  "name": "DZ Shopper - وسيط التسوق الجزائري والدفع ببريدي موب",
+  "description": "منصة ومخطط تطبيقي متكامل لوسيط التسوق الجزائري من المواقع العالمية بالدفع بالدينار عبر بريدي موب مع نظام التتبع وإدارة الطلبات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
